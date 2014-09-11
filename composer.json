@@ -1,3 +1,6 @@
 {
-    "name": "rjkeller/OrangesRedisBundle"
+    "name": "rjkeller/OrangesRedisBundle",
+    "autoload": {
+        "psr-0": { "": "/" }
+    }
 }
